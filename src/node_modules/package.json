@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "homepage",
+    "main": "./index.js"
+}
